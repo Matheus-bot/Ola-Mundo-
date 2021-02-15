@@ -1,3 +1,3 @@
 # Hello World !!!
- My fist project 
+ My fist project of the course 
  
