@@ -1,3 +1,3 @@
 # Hello World !!!
- My fist project of the course 
+ My fist project of the course about Git and GitHub 
  
